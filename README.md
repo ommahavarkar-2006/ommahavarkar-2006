@@ -2,7 +2,7 @@
 
 <h3 align="center">Aspiring Full Stack Developer from India 🇮🇳</h3>
 
----
+--- 
 
 ## 👨‍💻 About Me
 
