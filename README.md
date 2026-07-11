@@ -54,17 +54,14 @@ Aspiring Full Stack Developer | Python • Flask • MySQL | India 🇮🇳
 
 ---
 
-# 📈 GitHub Statistics
 
-<p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ommahavarkar-2006&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ommahavarkar-2006&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
+# 📈 GitHub Statistics 
+<p align="center"> 
+  <!-- FIX: Replaced unstable links with optimized, fast-cached GitHub Readme Stats mirrors -->
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=ommahavarkar-2006&show_icons=true&theme=tokyonight" alt="Om's GitHub Stats"/> 
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ommahavarkar-2006&layout=compact&theme=tokyonight" alt="Om's Top Languages"/> 
+</p> 
 
 # 🔥 GitHub Streak
 
