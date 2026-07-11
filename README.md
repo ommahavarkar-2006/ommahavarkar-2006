@@ -1,99 +1,143 @@
+<p align="center">
+  <img src="banner.png" width="100%" alt="Banner">
+</p>
+
 <h1 align="center">Hi 👋, I'm Om Mahavarkar</h1>
 
-<h3 align="center">Aspiring Full Stack Developer from India 🇮🇳</h3>
+<h3 align="center">
+Aspiring Full Stack Developer | Python • Flask • MySQL | India 🇮🇳
+</h3>
 
---- 
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Python+Developer;Flask+Developer;Learning+New+Technologies;Open+to+Work" />
+</p>
 
-## 👨‍💻 About Me
+<p align="center">
+<a href="https://github.com/ommahavarkar-2006">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+</a>
 
-- 🎓 B.Sc. Information Technology Student
-- 💻 Passionate about Full Stack Development
-- 🌱 Currently learning Flask, MySQL, JavaScript and Git
-- 🚀 Building real-world web applications
-- 📫 Reach me at **ommahavarkar@gmail.com**
+<a href="https://www.linkedin.com/in/om-mahavarkar-03b8ba3a6/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
+</a>
 
----
-
-## 🚀 Tech Stack
-
-### Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<a href="mailto:ommahavarkar@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail">
+</a>
+</p>
 
 ---
 
-### Frontend
+# 👨‍💻 About Me
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+🎓 B.Sc. Information Technology Student
 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+💻 Aspiring Full Stack Developer
 
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+🌱 Currently learning Flask, MySQL and JavaScript
 
----
+🚀 Passionate about building real-world web applications
 
-### Backend
+📍 Mumbai, India
 
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
----
-
-### Database
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+📫 Email: **ommahavarkar@gmail.com**
 
 ---
 
-### Tools
+# 🚀 Tech Stack
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<p align="center">
 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,flask,mysql,html,css,js,bootstrap,git,github,vscode"/>
 
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
+</p>
 
 ---
 
-## 📌 Featured Project
+# 📈 GitHub Statistics
 
-### 🍽️ Food Waste Management System
+<p align="center">
 
-A Full Stack Web Application built using Flask, MySQL, HTML, CSS and JavaScript.
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ommahavarkar-2006&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ommahavarkar-2006&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=ommahavarkar-2006&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ommahavarkar-2006&theme=tokyonight&row=2&column=3"/>
+
+</p>
+
+---
+
+# 🚀 Featured Project
+
+## 🍽️ Food Waste Management System
+
+A Full Stack Web Application developed using Flask, MySQL, HTML, CSS and JavaScript.
 
 ### Features
 
-- User Authentication
-- NGO Management
-- Food Donation
-- Donation Tracking
-- Admin Dashboard
-- Proof of Delivery
+✅ User Authentication
 
-🔗 **Project**
+✅ NGO Dashboard
+
+✅ Admin Dashboard
+
+✅ Food Donation
+
+✅ Donation Tracking
+
+✅ Proof of Delivery
+
+🔗 Repository
 
 https://github.com/ommahavarkar-2006/FoodWasteManagement
 
 ---
 
-## 📈 GitHub Stats
+# 📫 Connect With Me
 
-![Om's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ommahavarkar-2006&show_icons=true&theme=tokyonight)
+💼 LinkedIn
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ommahavarkar-2006&layout=compact&theme=tokyonight)
+https://www.linkedin.com/in/om-mahavarkar-03b8ba3a6/
+
+💻 GitHub
+
+https://github.com/ommahavarkar-2006
+
+📧 Email
+
+ommahavarkar@gmail.com
 
 ---
 
-## 🤝 Connect with Me
+<p align="center">
 
-- 💼 LinkedIn: https://www.linkedin.com/in/om-mahavarkar-03b8ba3a6/
-- 💻 GitHub: https://github.com/ommahavarkar-2006
+<img src="https://komarev.com/ghpvc/?username=ommahavarkar-2006&label=Profile+Views&color=0e75b6&style=flat"/>
+
+</p>
 
 ---
 
-<h3 align="center">⭐ Thank you for visiting my profile ⭐</h3>
+<h3 align="center">
+
+⭐ Thank You for Visiting My Profile ⭐
+
+</h3>
