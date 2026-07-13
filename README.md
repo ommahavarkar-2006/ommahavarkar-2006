@@ -1,140 +1,349 @@
-<p align="center">
-  <img src="banner.png" width="100%" alt="Banner">
-</p>
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Om Mahavarkar</h1>
+<img src="./name-banner.svg" width="100%"/>
 
-<h3 align="center">
-Aspiring Full Stack Developer | Python • Flask • MySQL | India 🇮🇳
-</h3>
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Python+Developer;Flask+Developer;Learning+New+Technologies;Open+to+Work" />
-</p>
-
-<p align="center">
-<a href="https://github.com/ommahavarkar-2006">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
-</a>
+<br/>
 
 <a href="https://www.linkedin.com/in/om-mahavarkar-03b8ba3a6/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-D9C9B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=8A7862" />
+</a>
+<a href="https://github.com/ommahavarkar-2006">
+  <img src="https://img.shields.io/badge/GitHub-Follow-D9C9B5?style=for-the-badge&logo=github&logoColor=white&labelColor=8A7862" />
+</a>
+<a href="mailto:youremail@example.com">
+  <img src="https://img.shields.io/badge/Email-Contact-D9C9B5?style=for-the-badge&logo=gmail&logoColor=white&labelColor=8A7862" />
 </a>
 
-<a href="mailto:ommahavarkar@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail">
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;Python+%7C+Flask+Developer;Building+Scalable+Web+Applications;Turning+Ideas+Into+Real+Products&font=Poppins&center=true&width=600&height=50&duration=3000&pause=800&color=8A7862&vCenter=true&size=22&weight=600"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</div>
+
+<br/>
+
+## &nbsp;&nbsp;01&nbsp;&nbsp;·&nbsp;&nbsp;About Me
+
+Full Stack Developer with a foundation in **Python** and **Flask**, focused on building web applications that are functional, scalable, and genuinely useful. I enjoy the full journey of a product — from database design to deployment — and I like solving problems that have a real-world impact.
+
+&nbsp;
+
+- 🎓&nbsp; B.Sc. Information Technology Graduate
+- 💻&nbsp; Passionate Full Stack Developer
+- 🌐&nbsp; Interested in Backend Development, Cloud Deployment & Full Stack Web Development
+- 📚&nbsp; Currently learning React.js, Docker & REST API Development
+- 🎯&nbsp; Looking for Full Stack Developer Internship / Entry-Level opportunities
+- 🧩&nbsp; Enjoy solving real-world problems using technology
+
+<br/>
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+**5+**
+Full Stack Projects
+
+</td>
+<td align="center" width="25%">
+
+**12+**
+Technologies Used
+
+</td>
+<td align="center" width="25%">
+
+**2**
+Cloud Platforms
+<sub>Render · Aiven</sub>
+
+</td>
+<td align="center" width="25%">
+
+**1**
+Live Production App
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</div>
+
+<br/>
+
+## &nbsp;&nbsp;02&nbsp;&nbsp;·&nbsp;&nbsp;Featured Project
+
+<table width="100%">
+<tr>
+<td width="100%">
+
+### 🍽️&nbsp; Food Waste Management Platform
+
+A complete Full Stack web application that connects **food donors** with **NGOs** to reduce food waste efficiently — built end-to-end and deployed to production.
+
+**Key Features**
+
+<table width="100%">
+<tr>
+<td width="33%">
+
+✔ User Authentication
+✔ Admin Dashboard
+✔ NGO Verification
+
+</td>
+<td width="33%">
+
+✔ Donation Tracking
+✔ Proof of Delivery
+✔ Responsive Design
+
+</td>
+<td width="33%">
+
+✔ Cloud Deployment
+✔ MySQL Database
+✔ Secure Login System
+
+</td>
+</tr>
+</table>
+
+**Tech Stack**
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
+<img src="https://img.shields.io/badge/Aiven-1B74E4?style=for-the-badge&logo=aiven&logoColor=white"/>
+</p>
+
+<p>
+<a href="https://foodwastemanagement-tbcu.onrender.com/">
+  <img src="https://img.shields.io/badge/Live%20Demo-View%20Project-D9C9B5?style=for-the-badge&logo=vercel&logoColor=white&labelColor=8A7862"/>
+</a>
+<a href="https://github.com/ommahavarkar-2006/FoodWasteManagement">
+  <img src="https://img.shields.io/badge/Repository-Source%20Code-D9C9B5?style=for-the-badge&logo=github&logoColor=white&labelColor=8A7862"/>
 </a>
 </p>
 
----
+</td>
+</tr>
+</table>
 
-# 👨‍💻 About Me
+<br/>
 
-🎓 B.Sc. Information Technology Student
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</div>
 
-💻 Aspiring Full Stack Developer
+<br/>
 
-🌱 Currently learning Flask, MySQL and JavaScript
+## &nbsp;&nbsp;03&nbsp;&nbsp;·&nbsp;&nbsp;Skills
 
-🚀 Passionate about building real-world web applications
+<table width="100%">
+<tr>
+<td valign="top" width="25%">
 
-📍 Mumbai, India
+**Frontend**
 
-📫 Email: **ommahavarkar@gmail.com**
-
----
-
-# 🚀 Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,flask,mysql,html,css,js,bootstrap,git,github,vscode"/>
-
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/><br/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </p>
 
----
+</td>
+<td valign="top" width="25%">
 
+**Backend**
 
-
-# 📈 GitHub Statistics 
-<p align="center"> 
-  <!-- FIX: Replaced unstable links with optimized, fast-cached GitHub Readme Stats mirrors -->
-  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=ommahavarkar-2006&show_icons=true&theme=tokyonight" alt="Om's GitHub Stats"/> 
-  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ommahavarkar-2006&layout=compact&theme=tokyonight" alt="Om's Top Languages"/> 
-</p> 
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=ommahavarkar-2006&theme=tokyonight"/>
-
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/REST%20APIs-FF6C37?style=for-the-badge&logo=fastapi&logoColor=white"/>
 </p>
 
----
+</td>
+<td valign="top" width="25%">
 
-# 🏆 GitHub Trophies
+**Database**
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ommahavarkar-2006&theme=tokyonight&row=2&column=3"/>
-
+<p>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Aiven%20Cloud-1B74E4?style=for-the-badge&logo=aiven&logoColor=white"/>
 </p>
 
----
+</td>
+<td valign="top" width="25%">
 
-# 🚀 Featured Project
+**Tools**
 
-## 🍽️ Food Waste Management System
-
-A Full Stack Web Application developed using Flask, MySQL, HTML, CSS and JavaScript.
-
-### Features
-
-✅ User Authentication
-
-✅ NGO Dashboard
-
-✅ Admin Dashboard
-
-✅ Food Donation
-
-✅ Donation Tracking
-
-✅ Proof of Delivery
-
-🔗 Repository
-
-https://github.com/ommahavarkar-2006/FoodWasteManagement
-
----
-
-# 📫 Connect With Me
-
-💼 LinkedIn
-
-https://www.linkedin.com/in/om-mahavarkar-03b8ba3a6/
-
-💻 GitHub
-
-https://github.com/ommahavarkar-2006
-
-📧 Email
-
-ommahavarkar@gmail.com
-
----
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=ommahavarkar-2006&label=Profile+Views&color=0e75b6&style=flat"/>
-
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/><br/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
 
----
+</td>
+</tr>
+</table>
 
-<h3 align="center">
+<br/>
 
-⭐ Thank You for Visiting My Profile ⭐
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</div>
 
-</h3>
+<br/>
+
+## &nbsp;&nbsp;04&nbsp;&nbsp;·&nbsp;&nbsp;Currently Focused On
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**Building**
+
+🍽&nbsp; Food Waste Management Platform
+🌐&nbsp; Personal Portfolio Website
+
+</td>
+<td width="50%" valign="top">
+
+**Learning**
+
+<p>
+<img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cloud%20Deployment-EFE6DA?style=for-the-badge&logo=icloud&logoColor=8A7862"/>
+<img src="https://img.shields.io/badge/Advanced%20Backend%20Dev-EFE6DA?style=for-the-badge&logo=fastapi&logoColor=8A7862"/>
+</p>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</div>
+
+<br/>
+
+## &nbsp;&nbsp;05&nbsp;&nbsp;·&nbsp;&nbsp;GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ommahavarkar-2006&show_icons=true&theme=transparent&hide_border=true&title_color=8A7862&icon_color=8A7862&text_color=6B5D4F&bg_color=00000000" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ommahavarkar-2006&layout=compact&hide_border=true&theme=transparent&title_color=8A7862&text_color=6B5D4F&bg_color=00000000" height="165"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=ommahavarkar-2006&theme=transparent&hide_border=true&ring=8A7862&fire=8A7862&currStreakLabel=8A7862&sideLabels=6B5D4F&currStreakNum=6B5D4F&sideNums=6B5D4F&dates=A99C8C" width="90%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ommahavarkar-2006&theme=redical&hide_border=true&bg_color=00000000&color=8A7862&line=8A7862&point=6B5D4F" width="90%"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</div>
+
+<br/>
+
+## &nbsp;&nbsp;06&nbsp;&nbsp;·&nbsp;&nbsp;Education
+
+**Bachelor of Science in Information Technology**
+D.G. Ruparel College of Arts, Commerce and Science, Mumbai University
+
+&nbsp;
+
+| Graduation | CGPA |
+|:---:|:---:|
+| **2026** | **7.9** |
+
+<br/>
+
+## &nbsp;&nbsp;07&nbsp;&nbsp;·&nbsp;&nbsp;Certifications
+
+<p>
+<img src="https://img.shields.io/badge/Cisco%20Networking%20Academy-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI%20for%20Beginners-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
+<br/>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</div>
+
+<br/>
+
+<div align="center">
+
+### “ Simplicity is the ultimate sophistication — the same holds true for code. ”
+
+</div>
+
+<br/>
+
+## &nbsp;&nbsp;08&nbsp;&nbsp;·&nbsp;&nbsp;Let’s Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/om-mahavarkar-03b8ba3a6/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/ommahavarkar-2006">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="mailto:youremail@example.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/Portfolio-8A7862?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=ommahavarkar-2006&label=Profile%20Views&color=8A7862&style=flat" />
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A7862,100:D9C9B5&height=120&section=footer" width="100%"/>
+
+</div>
