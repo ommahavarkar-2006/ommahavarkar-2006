@@ -1,0 +1,64 @@
+<svg width="1600" height="360" viewBox="0 0 1600 360" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FBF7EF"/>
+      <stop offset="100%" stop-color="#F1E8D8"/>
+    </linearGradient>
+    <radialGradient id="glow1" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#A67C52" stop-opacity="0.16"/>
+      <stop offset="100%" stop-color="#A67C52" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow2" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#3E5C4A" stop-opacity="0.10"/>
+      <stop offset="100%" stop-color="#3E5C4A" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1600" height="360" fill="url(#bg)"/>
+  <circle cx="1500" cy="40" r="260" fill="url(#glow1)"/>
+  <circle cx="60" cy="360" r="220" fill="url(#glow2)"/>
+
+  <!-- thin frame -->
+  <rect x="20" y="20" width="1560" height="320" fill="none" stroke="#8A7862" stroke-width="1" opacity="0.35"/>
+  <rect x="30" y="30" width="1540" height="300" fill="none" stroke="#8A7862" stroke-width="1" opacity="0.15"/>
+
+  <!-- corner ticks -->
+  <path d="M20 60 L20 20 L60 20" fill="none" stroke="#8A7862" stroke-width="2"/>
+  <path d="M1580 300 L1580 340 L1540 340" fill="none" stroke="#8A7862" stroke-width="2"/>
+
+  <!-- monogram -->
+  <circle cx="1460" cy="120" r="46" fill="none" stroke="#8A7862" stroke-width="1.2"/>
+  <circle cx="1460" cy="120" r="38" fill="none" stroke="#8A7862" stroke-width="0.6" opacity="0.5"/>
+  <text x="1460" y="133" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="34" fill="#5C4A38" font-weight="600">OM</text>
+
+  <!-- vertical divider -->
+  <line x1="1360" y1="70" x2="1360" y2="290" stroke="#8A7862" stroke-width="1" opacity="0.4"/>
+
+  <!-- eyebrow -->
+  <text x="90" y="108" font-family="Helvetica, Arial, sans-serif" font-size="14" letter-spacing="6" fill="#A67C52" font-weight="700">PORTFOLIO&#160;&#160;/&#160;&#160;GITHUB</text>
+
+  <!-- name -->
+  <text x="88" y="196" font-family="Georgia, 'Times New Roman', serif" font-size="80" fill="#33261C" font-weight="700" letter-spacing="1">Om Mahavarkar</text>
+
+  <!-- gold underline accent -->
+  <rect x="90" y="214" width="150" height="4" fill="#A67C52"/>
+
+  <!-- subtitle -->
+  <text x="90" y="256" font-family="Helvetica, Arial, sans-serif" font-size="22" letter-spacing="4" fill="#5C4A38" font-weight="600">FULL STACK DEVELOPER</text>
+
+  <!-- tagline -->
+  <text x="90" y="286" font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#8A7862" font-style="italic">Building scalable web applications with Python &amp; Flask</text>
+
+  <!-- right-side vertical stack labels -->
+  <text x="1400" y="90" font-family="Helvetica, Arial, sans-serif" font-size="12" letter-spacing="3" fill="#8A7862" font-weight="600">STACK</text>
+  <text x="1400" y="185" font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#5C4A38">Python</text>
+  <text x="1400" y="210" font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#5C4A38">Flask</text>
+  <text x="1400" y="235" font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#5C4A38">MySQL</text>
+  <text x="1400" y="260" font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#5C4A38">JavaScript</text>
+
+  <!-- fine dot accents -->
+  <circle cx="1385" cy="181" r="2.5" fill="#A67C52"/>
+  <circle cx="1385" cy="206" r="2.5" fill="#A67C52"/>
+  <circle cx="1385" cy="231" r="2.5" fill="#A67C52"/>
+  <circle cx="1385" cy="256" r="2.5" fill="#A67C52"/>
+</svg>
