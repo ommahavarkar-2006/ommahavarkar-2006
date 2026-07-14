@@ -15,6 +15,10 @@
   <img src="https://img.shields.io/badge/Email-Contact-D9C9B5?style=for-the-badge&logo=gmail&logoColor=white&labelColor=8A7862" />
 </a>
 
+<a href="https://om-portfolio-orpin.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-D9C9B5?style=for-the-badge&logo=vercel&logoColor=white&labelColor=8A7862" alt="Portfolio"/>
+</a>
+
 <br/><br/>
 
 <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;Python+%7C+Flask+Developer;Building+Scalable+Web+Applications;Turning+Ideas+Into+Real+Products&font=Poppins&center=true&width=600&height=50&duration=3000&pause=800&color=8A7862&vCenter=true&size=22&weight=600"/>
@@ -332,7 +336,7 @@ D.G. Ruparel College of Arts, Commerce and Science, Mumbai University
 <a href="mailto:youremail@example.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="#">
+<a href="https://om-portfolio-orpin.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-8A7862?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
